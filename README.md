@@ -2,6 +2,17 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 # Free Linux Games
 * [Strategy  Tactics](##strategy-/-tactics)
+* [City Builder/Tycoo ](##city-builder/tycoo)
+* [Adventure/RPG](##adventure/rpg)
+* [Roguelikes](##rougelikes)
+* [Space Sim/Trading/RPG](##space-sim/trading/rp )
+* [Puzzle](##puzzle)
+* [Arcade/Casual](##arcade/casual)
+* [Side-Scroller](##side-scroller)
+* [Racing](##racing)
+* [First Person Shooter/Stealth](##first-person-shooter/stealth)
+* [Sandbox](##sandbox)
+* [Vehicle Combat](##vehicle-combat)
 
 ## Strategy / Tactics
 
