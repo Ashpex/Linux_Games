@@ -2,7 +2,7 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 # Free Linux Games: 
 
-## Strategy / Tactics:
+## Strategy / Tactics
 
 * [FreeCiv](http://www.freeciv.org/) - Free clone of Civilization
 
@@ -36,7 +36,7 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 * [Scorched 3D](http://www.scorched3d.co.uk/) - Turn-based &amp; real-time artillery strategy game
 
-## City Builder/Tycoon:
+## City Builder/Tycoon
 
 * [OpenTTD](https://www.openttd.org/en/) - Clone of Transport Tycoon Deluxe
 
@@ -46,7 +46,7 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 * [Widelands](https://wl.widelands.org/) - Settlers clone
 
-## Adventure/RPG:
+## Adventure/RPG
 
 * [Heroine's Quest](http://crystalshard.net/?g=16) - Fantastic Point'n'Click/RPG inspired by the Quest for Glory series from Sierra
 
@@ -62,7 +62,7 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 * [Dungeon Master CSB](http://dmweb.free.fr/?q=node/851) - 1st person dungeon crawler
 
-## Roguelikes:
+## Roguelikes
 
 * [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Famous RL/City-builder **(Needs Good CPU)**
 
@@ -90,7 +90,7 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 * [Pixel Dungeon](https://snapcraft.io/shattered-pixel-dungeon) - RL with a nice GUI
 
-## Space Sim/Trading/RPG:
+## Space Sim/Trading/RPG
 
 * [Ur-Quan Masters](http://sc2.sourceforge.net/) - Updated version of Star Control II. Be sure to get the Voice Pack! ([Alternative HD version available here](https://sourceforge.net/projects/urquanmastershd/))
 
@@ -105,7 +105,7 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 * [Race into Space](http://www.raceintospace.org/) - Space race sim
 
 
-## Puzzle:
+## Puzzle
 
 * [FloboPuyo](http://www.ios-software.com/flobopuyo-en) - Clone of PuyoPuyo [(Source-code)](http://www.fovea.cc/files/flobopuyo)
 
@@ -121,7 +121,7 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 * [Coregrounds](https://store.steampowered.com/app/649770/Coregrounds/) - Online Competitive Tower-Defense
 
-## Arcade/Casual:
+## Arcade/Casual
 
 * [SSVOpenHexagon](http://vittorioromeo.info/projects.html) - Clone of Super Hexagon [(Source code)](https://github.com/SuperV1234/SSVOpenHexagon)
 
@@ -147,7 +147,7 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 * [NeverPutt](https://fedoraproject.org/wiki/Games/neverputt) - Mini-Golf
 
-## Side-Scroller:
+## Side-Scroller
 
 * [Mr. Rescue](http://tangramgames.dk/games/mrrescue/) - Play as a fireman rescuing people [(Source code)](https://github.com/SimonLarsen/mrrescue)
 
@@ -173,7 +173,7 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 * [Spelunky](https://www.gamingonlinux.com/articles/playing-spelunky-classic-hd-on-linux-is-now-just-a-snap-away.12056) - Roguelite platformer
 
-## Racing:
+## Racing
 
 * [SuperTuxCart](https://supertuxkart.net/Main_Page) - Clone of the Mario Cart games
 
@@ -181,7 +181,7 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 * [Speed Dreams](http://speed-dreams.org/) - Realistic racing sim
 
-## First Person Shooter/Stealth:
+## First Person Shooter/Stealth
 
 * [Cube 2](http://sauerbraten.org/) - Quake-like Arena online FPS with multiple game modes
 
@@ -215,12 +215,12 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 * [The Dark Mod](http://www.thedarkmod.com/) - Fan-made spin-off the the fantastic Thief series **(Not suitable for weak PC)**
 
-## Sandbox:
+## Sandbox
 
 * [Minetest](https://www.minetest.net/) - Use of mods recommended
 
 * [TrueCraft](https://github.com/SirCmpwn/TrueCraft) - Clean-room implementation of Minecraft 1.7.3
 
-## Vehicle Combat:
+## Vehicle Combat
 
 * [Warthunder](https://warthunder.com/en) - WWII Flight/Dogfighter/Tanker Sim **(Not suitable for weak PC)**
