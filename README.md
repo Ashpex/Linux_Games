@@ -1,6 +1,6 @@
 Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [500 AppImage games](https://portablelinuxgames.org/) &amp; [LGDB](https://lgdb.org/)!
 
-#Free Linux Games: 
+# Free Linux Games: 
 
 **Strategy / Tactics:**
 
