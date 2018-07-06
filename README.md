@@ -1,18 +1,18 @@
 Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [500 AppImage games](https://portablelinuxgames.org/) &amp; [LGDB](https://lgdb.org/)!
 
 # Free Linux Games
-* [Strategy  Tactics](##strategy-/-tactics)
-* [City Builder/Tycoo ](##city-builder/tycoo)
-* [Adventure/RPG](##adventure/rpg)
-* [Roguelikes](##rougelikes)
-* [Space Sim/Trading/RPG](##space-sim/trading/rp )
-* [Puzzle](##puzzle)
-* [Arcade/Casual](##arcade/casual)
-* [Side-Scroller](##side-scroller)
-* [Racing](##racing)
-* [First Person Shooter/Stealth](##first-person-shooter/stealth)
-* [Sandbox](##sandbox)
-* [Vehicle Combat](##vehicle-combat)
+* [Strategy  Tactics](https://gitlab.com/Ashpex/Linux_Games#strategy-tactics)
+* [City Builder/Tycoo ](https://gitlab.com/Ashpex/Linux_Games#city-buildertycoon)
+* [Adventure/RPG](https://gitlab.com/Ashpex/Linux_Games#adventurerpg)
+* [Roguelikes](https://gitlab.com/Ashpex/Linux_Games#roguelikes)
+* [Space Sim/Trading/RPG](https://gitlab.com/Ashpex/Linux_Games#space-simtradingrpg)
+* [Puzzle](https://gitlab.com/Ashpex/Linux_Games#puzzle)
+* [Arcade/Casual](https://gitlab.com/Ashpex/Linux_Games#arcadecasual)
+* [Side-Scroller](https://gitlab.com/Ashpex/Linux_Games#side-scroller)
+* [Racing](https://gitlab.com/Ashpex/Linux_Games#racing)
+* [First Person Shooter/Stealth](https://gitlab.com/Ashpex/Linux_Games#first-person-shooterstealth)
+* [Sandbox](https://gitlab.com/Ashpex/Linux_Games#sandbox)
+* [Vehicle Combat](https://gitlab.com/Ashpex/Linux_Games#vehicle-combat)
 
 ## Strategy / Tactics
 
