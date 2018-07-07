@@ -1,4 +1,5 @@
 Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [500 AppImage games](https://portablelinuxgames.org/) &amp; [LGDB](https://lgdb.org/)!
+<img src="http://img.shields.io/liberapay/patrons/Ashpex.svg?logo=liberapay">
 
 # Free Linux Games
 * [Strategy  Tactics](https://gitlab.com/Ashpex/Linux_Games#strategy-tactics)
