@@ -1,5 +1,5 @@
 Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [500 AppImage games](https://portablelinuxgames.org/) &amp; [LGDB](https://lgdb.org/)!
-<img src="http://img.shields.io/liberapay/patrons/Ashpex.svg?logo=liberapay">
+
 
 # Free Linux Games
 * [Strategy  Tactics](https://gitlab.com/Ashpex/Linux_Games#strategy-tactics)
@@ -189,6 +189,8 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 * [Spelunky](https://www.gamingonlinux.com/articles/playing-spelunky-classic-hd-on-linux-is-now-just-a-snap-away.12056) - Roguelite platformer
 
 ## Racing
+
+* [SuperTuxRacer](http://tuxracer.sourceforge.net/) - Funny racing penguin.
 
 * [SuperTuxCart](https://supertuxkart.net/Main_Page) - Clone of the Mario Cart games
 
