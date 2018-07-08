@@ -17,6 +17,8 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 ## Strategy / Tactics
 
+* [Freecraft](http://dags.stanford.edu/Freecraft/install.html) - Free clone of Warcraft
+
 * [FreeCiv](http://www.freeciv.org/) - Free clone of Civilization
 
 * [FreeCol](http://www.freecol.org/news/freecol-0.11.6-released.html) - Clone of Colonization
