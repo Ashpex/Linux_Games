@@ -130,6 +130,8 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 * [Pingus](https://pingus.seul.org/) - Lemmings clone.
 
+* [Rabbit Escape](https://www.artificialworlds.net/rabbit-escape/) - Similar to Lemmings [(Source code)](https://github.com/andybalaam/rabbit-escape)
+
 * [Portable Puzzle Collection](https://www.chiark.greenend.org.uk/%7Esgtatham/puzzles/) - 39 old school puzzle games
 
 * [Blockout2](http://www.blockout.net/blockout2/) - 3D Tetris
