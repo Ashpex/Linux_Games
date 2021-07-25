@@ -35,7 +35,7 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 * [UFO: Alien Invasion](https://ufoai.org/wiki/News) - Turn-based tactical combat game inspired by the X-Com series
 
-* [Argentum Age](http://www.argentumage.com/) - Open-source fantasy card game
+* [Argentum Age](https://argentumage.itch.io/argentum-age) - Open-source fantasy card game
 
 * [UFO2000](http://ufo2000.sourceforge.net/) - X-Com w/ Multiplayer
  
