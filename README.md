@@ -236,7 +236,7 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 ## Sandbox
 
-* [Minetest](https://www.minetest.net/) - Use of mods recommended
+* [Luanti](https://www.luanti.org/) - Use of mods recommended
 
 * [TrueCraft](https://github.com/SirCmpwn/TrueCraft) - Clean-room implementation of Minecraft 1.7.3
 
