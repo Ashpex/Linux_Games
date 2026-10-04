@@ -234,6 +234,8 @@ Also check out [GOL's List](https://www.gamingonlinux.com/free-games/) &amp; [50
 
 * [The Dark Mod](http://www.thedarkmod.com/) - Fan-made spin-off the the fantastic Thief series **(Not suitable for weak PC)**
 
+* [pyf3d](http://github.com/netizenarg/pyf3d) - open source 3D shooter based on PyOpenGL scripted in Python no assets only real time code generated models, textures, sounds
+
 ## Sandbox
 
 * [Luanti](https://www.luanti.org/) - Use of mods recommended
